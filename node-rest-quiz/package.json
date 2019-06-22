@@ -1,0 +1,22 @@
+{
+  "name": "rest-quiz",
+  "version": "1.0.0",
+  "description": "a NODE.JS rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Calinciuc Andrei",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3",
+    "save": "^2.3.3"
+  }
+}
